@@ -16,7 +16,5 @@
     "sourceType": "module"
   },
   "plugins": ["@typescript-eslint"],
-  "rules": {
-    "@typescript/no-explicit-any": true
-  }
+  "rules": {}
 }
